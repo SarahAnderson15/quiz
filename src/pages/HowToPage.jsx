@@ -1,6 +1,6 @@
 //src/pages/HowToPage.jsx
 import React from 'react';
-import {link} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const HowToPage = () => {
     return(
@@ -31,9 +31,9 @@ const HowToPage = () => {
                 <h2>Accessability Notes</h2>
                 <p>This quiz can be navigated using a keyboard or screen reader. use Tab/Enter to move through the querstion</p>
             </section>
-            <link to="/quiz" className="start-quiz-button">
+            <Link to="/quiz" className="start-quiz-button">
             Start Quiz
-            </link>
+            </Link>
         </div>
     );
 };

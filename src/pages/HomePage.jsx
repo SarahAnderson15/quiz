@@ -8,12 +8,12 @@ const HomePage = () => {
           <h1>Welcome To Ulitmate Women's Rugby Quiz</h1>
           <p>How much do you know about women's rugby? Lets find out!</p>
           <div className="button-group">
-             <link to="/how-to" className="btn how-to-btn">
+             <Link to="/how-to" className="btn how-to-btn">
              How to Play
-             </link>
-             <link to="/quiz" className="btn start-quiz-btn">
+             </Link>
+             <Link to="/quiz" className="btn start-quiz-btn">
              Start Quiz
-             </link>
+             </Link>
           </div>
         </div>
     );

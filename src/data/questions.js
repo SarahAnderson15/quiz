@@ -24,7 +24,7 @@ const questions = [
     },
     {
         id: 4,
-        questions: "How many teams participated in the first Womens's Rugby World Cup?",
+        question: "How many teams participated in the first Womens's Rugby World Cup?",
         options: [12, 16, 20, 24],
         correctAnswer: 12,
         type: "multiple-choice",           
@@ -52,7 +52,7 @@ const questions = [
     },
     {
         id: 8,
-        questions: "In rugby sevens, how many minutes does each half last?",
+        question: "In rugby sevens, how many minutes does each half last?",
         options: [5, 7, 10, 15],
         correctAnswer: 7,
         type: "multiple-choice",
@@ -66,7 +66,7 @@ const questions = [
     },
     {
         id: 10,
-        questions: "In woemsn's rugby sevens at the Olympics, which country won the first gold medal in 2016?",
+        question: "In woemsn's rugby sevens at the Olympics, which country won the first gold medal in 2016?",
         options: ["New Zealand", "Australia", "Canada", "United States"],
         correctAnswer: "Australia",
         type: "multiple-choice",
