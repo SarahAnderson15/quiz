@@ -25,9 +25,9 @@ Prodject 3 online interative fun quiz anbout womens rugby built using React, des
  css: https://jigsaw.w3.org/css-validator/  See results ![here](src/assets/csstest-screenshot.png)
   javascript : https://www.site24x7.com/tools/javascript-validator.html ![screenshot](src/assets/javascript-screenshot.png) & ![screenshot](src/assets/javascript-screenshot1.png)
 
- ## Getting started
-  - clone the respository. 
-  - Navigate into the projec directory.
-  - Install dependencies.
-  - Run the project locally.
-  - Then open your browser and got to http://localhost:3000/ 
+## Getting started
+- clone the respository. 
+- Navigate into the projec directory.
+- Install dependencies.
+- Run the project locally.
+- Then open your browser and got to http://localhost:3000/ 
