@@ -66,7 +66,7 @@ const questions = [
     },
     {
         id: 10,
-        question: "In woemsn's rugby sevens at the Olympics, which country won the first gold medal in 2016?",
+        question: "In Women's rugby sevens at the Olympics, which country won the first gold medal in 2016?",
         options: ["New Zealand", "Australia", "Canada", "United States"],
         correctAnswer: "Australia",
         type: "multiple-choice",
