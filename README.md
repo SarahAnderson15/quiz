@@ -31,3 +31,10 @@ Prodject 3 online interative fun quiz anbout womens rugby built using React, des
 - Install dependencies.
 - Run the project locally.
 - Then open your browser and got to http://localhost:3000/ 
+
+## Deployment
+ - Deployement to GitHub Pages. The steps to deploy are as follows:
+ 1. In the [GitHub respository](https://github.com/SarahAnderson15/quiz), navigate to the settings tab.
+ 2. From the source section drop-down menu, select the Main Branch, then click "Save".
+ 3. The page will be automatically refreshed with a detailed ribbion display to indicate the successful deployment. 
+  The live link can be found [here](https://sarahanderson15.github.io/quiz/) 
